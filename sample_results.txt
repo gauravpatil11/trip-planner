@@ -1,0 +1,306 @@
+
+
+
+
+
+PS C:\Users\hp\Studies\Projects\AI\trip-planner> uv run python test.py
+1. **The best hotels in Mumbai**
+   https://www.cntraveller.in/gallery/the-best-hotels-in-mumbai-airport-colaba-worli-andheri
+   The Taj Mahal Palace, Mumbai, counts among the best hotels in Mumbai. The hotel is more than a symbol of grandeur and luxury–it’s a landmark with a history spanning 120 years. This was the first commercial building in Mumbai to ever have electricity. It housed Mumbai’s first licensed bar, and...
+
+2. **THE 10 BEST Hotels in Mumbai, India 2026 (from $13)**
+   https://www.tripadvisor.com/Hotels-g304554-Mumbai_Maharashtra-Hotels.html
+   Tripadvisor
+
+# THE 10 BEST Hotels in Mumbai 2026
+
+## Mumbai Hotels
+
+## Find the right hotel for you
+
+### The Westin Mumbai Powai Lake
+
+### 1. The St. Regis Mumbai
+
+### 2. JW Marriott Mumbai Juhu
+
+### 3. ITC Grand Central, Mumbai - a Luxury Collection Hotel
+
+### 4. Fairfield By Marriott Mumbai...
+
+3. **The 10 best luxury hotels in Mumbai, India**
+   https://www.booking.com/luxury/city/in/bombay.html
+   Some of the best luxury hotels in Mumbai near Marine Drive include The Oberoi Mumbai, Trident Nariman Point, and The Taj Mahal Palace, Mumbai.
+
+Lakefront Lounge-Luxe 1bhk condo with 2queen beds-2baths, ITC Maratha, a Luxury Collection Hotel, Mumbai, and Orbit Serviced Apartments are some of our...
+
+4. **TOP 10 Best 5 Star Luxury Hotels In MUMBAI,INDIA | PART 1**
+   https://www.youtube.com/watch?v=LBoq00NTabo
+   Mumbai is not only the financial powerhouse of India but also a melting pot of culture, art, and luxurious living. For travelers seeking the crème de la crème of hospitality, the city boasts an array of world-class, 5-star hotels. In this list, we’ll explore the top 10 best 5-star luxury hotels in...
+
+5. **Mumbai Luxury Hotels**
+   https://www.forbestravelguide.com/destinations/mumbai-india
+   Mumbai, India
+
+
+
+ITC Maratha, A Luxury Collection Hotel, Mumbai
+
+An art-filled escape in Mumbai
+
+Mumbai , India
+
+
+
+The Leela Mumbai
+
+Mumbai’s enchanting urban resort
+
+Mumbai, India
+
+
+
+The Oberoi, Mumbai
+
+Mumbai’s hotel with a view
+
+Mumbai , India
+
+
+
+The St. Regis Mumbai
+
+A luxurious Mumbai...
+PS C:\Users\hp\Studies\Projects\AI\trip-planner> 
+
+
+
+
+
+
+
+
+
+
+
+PS C:\Users\hp\Studies\Projects\AI\trip-planner> uv run python test.py
+Live flights from BOM
+
+Airline: Turkish Airlines
+Flight: TK6111
+Status: scheduled
+
+Departure:
+- Airport: Chhatrapati Shivaji International (Sahar International)
+- IATA: BOM
+- Terminal: N/A
+- Gate: N/A
+- Scheduled: 2026-09-21T01:35:00+00:00
+- Delay: N/A
+
+Arrival:
+- Airport: Istanbul Airport
+- IATA: IST
+- Terminal: N/A
+- Gate: N/A
+- Scheduled: 2026-09-21T06:05:00+00:00
+- Delay: N/A
+
+---
+
+Airline: IndiGo
+Flight: 6E911
+Status: scheduled
+
+Departure:
+- Airport: Chhatrapati Shivaji International (Sahar International)
+- IATA: BOM
+- Terminal: 2
+- Gate: N/A
+- Scheduled: 2026-09-21T01:30:00+00:00
+- Delay: 15 minutes
+
+Arrival:
+- Airport: Sardar Vallabhbhai Patel International Airport
+- IATA: AMD
+- Terminal: 1
+- Gate: N/A
+- Scheduled: 2026-09-21T02:50:00+00:00
+- Delay: N/A
+
+---
+
+Airline: Virgin Atlantic
+Flight: VS8474
+Status: scheduled
+
+Departure:
+- Airport: Chhatrapati Shivaji International (Sahar International)
+- IATA: BOM
+- Terminal: 2
+- Gate: N/A
+- Scheduled: 2026-09-21T01:30:00+00:00
+- Delay: 15 minutes
+
+Arrival:
+- Airport: Sardar Vallabhbhai Patel International Airport
+- IATA: AMD
+- Terminal: 1
+- Gate: N/A
+- Scheduled: 2026-09-21T02:50:00+00:00
+- Delay: N/A
+
+---
+
+Airline: IndiGo
+Flight: 6E1339
+Status: scheduled
+
+Departure:
+- Airport: Chhatrapati Shivaji International (Sahar International)
+- IATA: BOM
+- Terminal: 2
+- Gate: N/A
+- Scheduled: 2026-09-21T01:20:00+00:00
+- Delay: 15 minutes
+
+Arrival:
+- Airport: Singapore Changi
+- IATA: SIN
+- Terminal: 2
+- Gate: N/A
+- Scheduled: 2026-09-21T09:45:00+00:00
+- Delay: N/A
+
+---
+
+Airline: Qantas
+Flight: QF5980
+Status: scheduled
+
+Departure:
+- Airport: Chhatrapati Shivaji International (Sahar International)
+- IATA: BOM
+- Terminal: 2
+- Gate: N/A
+- Scheduled: 2026-09-21T01:20:00+00:00
+- Delay: 15 minutes
+
+Arrival:
+- Airport: Singapore Changi
+- IATA: SIN
+- Terminal: 2
+- Gate: N/A
+- Scheduled: 2026-09-21T09:45:00+00:00
+- Delay: N/A
+
+---
+
+Airline: Air France
+Flight: AF217
+Status: scheduled
+
+Departure:
+- Airport: Chhatrapati Shivaji International (Sahar International)
+- IATA: BOM
+- Terminal: 2
+- Gate: N/A
+- Scheduled: 2026-09-21T01:20:00+00:00
+- Delay: N/A
+
+Arrival:
+- Airport: Charles De Gaulle
+- IATA: CDG
+- Terminal: 2E
+- Gate: N/A
+- Scheduled: 2026-09-21T07:10:00+00:00
+- Delay: N/A
+
+---
+
+Airline: KLM
+Flight: KL2165
+Status: scheduled
+
+Departure:
+- Airport: Chhatrapati Shivaji International (Sahar International)
+- IATA: BOM
+- Terminal: 2
+- Gate: N/A
+- Scheduled: 2026-09-21T01:20:00+00:00
+- Delay: N/A
+
+Arrival:
+- Airport: Charles De Gaulle
+- IATA: CDG
+- Terminal: 2E
+- Gate: N/A
+- Scheduled: 2026-09-21T07:10:00+00:00
+- Delay: N/A
+
+---
+
+Airline: Delta Air Lines
+Flight: DL8237
+Status: scheduled
+
+Departure:
+- Airport: Chhatrapati Shivaji International (Sahar International)
+- IATA: BOM
+- Terminal: 2
+- Gate: N/A
+- Scheduled: 2026-09-21T01:20:00+00:00
+- Delay: N/A
+
+Arrival:
+- Airport: Charles De Gaulle
+- IATA: CDG
+- Terminal: 2E
+- Gate: N/A
+- Scheduled: 2026-09-21T07:10:00+00:00
+- Delay: N/A
+
+---
+
+Airline: IndiGo
+Flight: 6E5323
+Status: scheduled
+
+Departure:
+- Airport: Chhatrapati Shivaji International (Sahar International)
+- IATA: BOM
+- Terminal: 1
+- Gate: N/A
+- Scheduled: 2026-09-21T01:10:00+00:00
+- Delay: 15 minutes
+
+Arrival:
+- Airport: Bangalore International Airport
+- IATA: BLR
+- Terminal: 1
+- Gate: A7
+- Scheduled: 2026-09-21T03:05:00+00:00
+- Delay: N/A
+
+---
+
+Airline: Virgin Atlantic
+Flight: VS8501
+Status: scheduled
+
+Departure:
+- Airport: Chhatrapati Shivaji International (Sahar International)
+- IATA: BOM
+- Terminal: 1
+- Gate: N/A
+- Scheduled: 2026-09-21T01:10:00+00:00
+- Delay: 15 minutes
+
+Arrival:
+- Airport: Bangalore International Airport
+- IATA: BLR
+- Terminal: 1
+- Gate: A7
+- Scheduled: 2026-09-21T03:05:00+00:00
+- Delay: N/A
+PS C:\Users\hp\Studies\Projects\AI\trip-planner> 
