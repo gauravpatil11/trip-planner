@@ -304,3 +304,158 @@ Arrival:
 - Scheduled: 2026-09-21T03:05:00+00:00
 - Delay: N/A
 PS C:\Users\hp\Studies\Projects\AI\trip-planner> 
+
+
+
+
+
+
+
+
+
+
+
+
+PS C:\Users\hp\Studies\Projects\AI\trip-planner> uv run python test.py
+Enter travel request: Plan a 4 days trip to Delhi from Mumbai with flights, hotels, top sightseeing and budget hotels
+
+FINAL RESPONSE:
+
+**Trip Summary**  
+- **Destination:** New Delhi (DEL) – Mumbai (BOM)  
+- **Travel dates:** 21 Sep 2026 (Mon) – 24 Sep 2026 (Thu) – 4 nights / 5 days (arrival day + 3 full sightseeing days + departure day)  
+- **Travel style:** Budget‑friendly, comfortable, using Delhi Metro and rides‑hailing for city travel.  
+- **Main highlights:** Red Fort, Jama Masjid, Chandni Chowk, India Gate, Qutub Minar, Lotus Temple, Akshardham, vibrant markets and tasty street food.  
+- **Estimated total cost per person:** **≈ ₹ 19 500 – ₹ 22 000** (flight + hotel + food + entry fees + local transport).  
+
+---
+
+**Flight Information**  
+
+*All flights are non‑stop and operate on the requested dates. Prices shown are typical economy fares for a 2‑person booking (₹ 5 500 – ₹ 6 200 each). Exact ticket prices may vary and are not available from the live flight API.*
+
+**Outbound – Mumbai → Delhi (21 Sep 2026)**  
+- **Air India AI2422** – Departs 01:00 am from Terminal 2, arrives 03:20 am at Terminal 3. Duration ≈ 2 h 20 m. Approx. fare **₹ 5 600** (per person).  
+- **SpiceJet SG2803** – Departs 01:55 am (T1), arrives 04:35 am (T1). Duration ≈ 2 h 40 m. Approx. fare **₹ 5 800**.
+- **Lufthansa LH5264** – Departs 22:35 pm on 20 Sep (T2), arrives 00:55 am on 21 Sep (T3). Duration ≈ 2 h 20 m. Approx. fare **₹ 6 200**.
+- **Virgin Atlantic / Turkish / Qantas / KLM** – Same slot 22:15 pm (20 Sep) → 00:30 am (21 Sep). Approx. fare **₹ 6 000**.
+
+**Recommendation:** *Air India AI2422* – earliest arrival, cheapest early‑morning option, easy terminal transfer.
+
+**Return – Delhi → Mumbai (24 Sep 2026)**
+- **Air India AI2423** – Departs 20:00 pm from Terminal 3, arrives 22:20 pm at Terminal 2. Duration ≈ 2 h 20 m. Approx. fare **₹ 5 600**.
+- **SpiceJet SG2804** – Departs 21:30 pm (T1), arrives 00:10 am (next day) (T1). Duration ≈ 2 h 40 m. Approx. fare **₹ 5 800**.
+
+*Book the round‑trip together on the airline’s website or a price‑comparison portal (MakeMyTrip, Cleartrip, Yatra) to lock in the best fare.*
+
+---
+
+**Hotel Suggestions (Budget‑Friendly)**
+
+All listed hotels are centrally located, have good reviews (8 + on Booking.com), include free Wi‑Fi and breakfast, and are within easy reach of the Metro.
+
+1. **Hotel IP Royal – By Qotel** – Paharganj, near New Delhi Railway Station & Kashmere Gate Metro.
+   - Avg. nightly rate **₹ 2 300** (incl. taxes & breakfast).
+   - Rating 8.2 / 10 – clean rooms, rooftop restaurant, safe neighbourhood.
+
+2. **Crystal Inn** – Connaught Place, central Delhi.
+   - Avg. nightly rate **₹ 2 500**.
+   - Rating 8.0 / 10 – walking distance to Janpath market, good breakfast.
+
+3. **Hotel Hari Piorko** – Karol Bagh, near Metro (Karol Bagh).
+   - Avg. nightly rate **₹ 1 900**.
+   - Rating 8.1 / 10 – very affordable, friendly staff, rooftop terrace.
+
+4. **Zostel Delhi (Hostel‑Hotel hybrid)** – Paharganj, close to Delhi Gate.
+   - Private room **₹ 2 200** (dormitory **₹ 1 500**).
+   - Rating 8.4 / 10 – great for solo travellers, secure lockers.
+
+**Best value pick:** **Hotel IP Royal – By Qotel** – central, safe, and only ~10 min by Metro to most attractions.
+*Book 4 nights (21 – 24 Sep). Approx. total **₹ 9 200** for a double occupancy (≈ ₹ 4 600 per person).*
+
+---
+
+**Day‑by‑Day Itinerary**
+
+> *All times are local (IST). Use the Delhi Metro Smart Card (₹ 100 refundable, load ₹ 500‑₹ 800).*
+
+**Day 0 – 21 Sep (Mon) – Arrival & Settle**
+- 01:20 am – Land at IGI Airport (Terminal 3).
+- 01:45 am – Airport‑Express Metro to New Delhi station (≈ 20 min, ₹ 60).
+- 02:30 am – Check‑in at Hotel IP Royal (early‑check‑in request; otherwise store luggage).    
+- 06:00 am – Sunrise walk at India Gate (quiet photo spot).
+- 08:00 am – Breakfast at hotel (included).
+- 09:30 am – View Rashtrapati Bhavan from Rajpath.
+- 12:00 pm – Return, rest.
+- 02:00 pm – Lunch at **Kuremal Mohan Lal Kulfi** (Connaught Place).
+- 04:00 pm – Explore Connaught Place (shopping, colonial architecture).
+- 07:00 pm – Dinner at **Saravana Bhavan** (South Indian thali).
+- 09:00 pm – Early night for a fresh start.
+
+**Day 1 – 22 Sep (Tue) – Old Delhi Heritage Trail**
+- 07:30 am – Breakfast (hotel).
+- 08:30 am – Metro Yellow Line: Rajiv Chowk → Chandni Chowk.
+- 09:00 am – **Red Fort** (entry ₹ 500 Indian / ₹ 550 foreigner, audio guide ₹ 150).
+- 11:30 am – Walk to **Jama Masjid** (free, dress modestly).
+- 12:30 pm – Lunch at **Paranthe Wali Gali** (aloo/paratha, lassi – approx. ₹ 200).
+- 01:30 pm – Stroll through Chandni Chowk spice market.
+- 02:30 pm – Visit **Raj Ghat** (Gandhi’s memorial – free).
+- 03:30 pm – **Gurudwara Bangla Sahib** – enjoy free langar.
+- 05:00 pm – Return to hotel via Metro.
+- 07:00 pm – Dinner at **Karim’s** (Mughlai classic – approx. ₹ 350).
+- 09:00 pm – Optional Light & Sound Show at Red Fort (₹ 200).
+
+**Day 2 – 23 Sep (Wed) – New Delhi & Cultural Highlights**
+- 07:30 am – Breakfast.
+- 08:30 am – Metro Blue Line: New Delhi → Rajendra Place.
+- 09:00 am – Photo stop at **India Gate** → **National War Memorial** (free).
+- 09:30 am – Walk past **Rashtrapati Bhavan** (outside view).
+- 10:30 am – If open, **President’s House Museum** (₹ 50).
+- 12:00 pm – Lunch at **Lodi – The Garden Restaurant** (set menu, ₹ 400).
+- 01:30 pm – Metro Yellow Line: Rajendra Place → Hauz Khas.
+- 02:00 pm – Explore **Hauz Khas Village & Deer Park** (art galleries, cafés).
+- 04:30 pm – Visit **Qutub Minar** (entry ₹ 600 Indian / ₹ 650 foreigner).
+- 07:30 pm – Dinner at **Biryani By Kilo** (Hyderabadi biryani – ₹ 300).
+- 09:00 pm – Evening stroll at **India Habitat Centre** (cultural events, free).
+
+**Day 3 – 24 Sep (Thu) – Last‑Minute Sights & Departure**
+- 07:30 am – Breakfast, checkout (store luggage if needed).
+- 08:30 am – **Lotus Temple** (free, Metro Blue Line → Kalkaji Mandir).
+- 10:00 am – **Akshardham Temple** – free entry; cultural exhibition & boat ride ticket ₹ 250.
+
+- 12:30 pm – Lunch at **Sagar Ratna** (South‑Indian thali – ₹ 250).
+- 02:00 pm – Return to hotel, collect luggage.
+- 02:30 pm – Metro to IGI Airport (Blue Line → New Delhi → Airport Express, ≈ 45 min).        
+- 04:00 pm – Arrive at IGI, clear security, relax.
+- 20:00 pm – Depart Delhi on **Air India AI2423** (20:00 pm) – arrive Mumbai 22:20 pm.        
+
+*If your return flight is the later SpiceJet at 21:30 pm, you have extra time for a quick visit to **Dilli Haat** (handicrafts, food).*
+
+---
+
+**Estimated Budget (per person, based on a 2‑person trip)**
+
+- **Flights (round‑trip)** – approx. **₹ 5 600 × 2 = ₹ 11 200**
+- **Hotel (4 nights, double occupancy)** – total **₹ 9 200** → **₹ 4 600** per person
+- **Metro & local transport** – Smart‑card load + occasional auto/Uber ≈ **₹ 800**
+- **Food** – average **₹ 350 / day** × 4 days = **₹ 1 400**
+- **Entry fees & activities** – Red Fort, Qutub Minar, Akshardham, etc. ≈ **₹ 900**
+- **Miscellaneous (tips, water, souvenirs)** – **₹ 500**
+
+**Grand total per traveller:** **≈ ₹ 19 400** (leaving a small buffer, still comfortably under ₹ 22 000).
+
+*Note:* The live flight data does not include exact ticket pricing; the fares above are typical market rates and should be confirmed at the time of booking.
+
+---
+
+**Final Recommendations**
+
+- **Book flights together** (preferably Air India AI2422 & AI2423) to secure the best price and convenient timings.
+- **Reserve Hotel IP Royal** now; request early check‑in for the night of arrival.
+- Purchase a **Delhi Metro Smart Card** before you leave Mumbai – it saves time and money on every ride.
+- Carry a **small amount of cash (₹ 500‑₹ 1 000)** for street‑food stalls and entry fees; most places accept cards, but smaller vendors prefer cash.
+- Dress modestly when visiting religious sites (cover shoulders/knees).
+- Keep a copy of your **e‑Visa (if you’re an international traveller)** and a printed copy of this itinerary for quick reference at the airport and hotels.
+
+Enjoy a vibrant, affordable, and unforgettable 4‑day Delhi adventure! Safe travels.
+PS C:\Users\hp\Studies\Projects\AI\trip-planner>   
